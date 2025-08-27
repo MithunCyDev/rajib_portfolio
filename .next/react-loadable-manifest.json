@@ -1,0 +1,38 @@
+{
+  "components\\client-animations.tsx -> @/components/animated-card": {
+    "id": "components\\client-animations.tsx -> @/components/animated-card",
+    "files": [
+      "static/chunks/_app-pages-browser_components_animated-card_tsx.js"
+    ]
+  },
+  "components\\client-animations.tsx -> @/components/animated-section": {
+    "id": "components\\client-animations.tsx -> @/components/animated-section",
+    "files": [
+      "static/chunks/_app-pages-browser_components_animated-section_tsx.js"
+    ]
+  },
+  "components\\client-animations.tsx -> @/components/animated-text": {
+    "id": "components\\client-animations.tsx -> @/components/animated-text",
+    "files": [
+      "static/chunks/_app-pages-browser_components_animated-text_tsx.js"
+    ]
+  },
+  "components\\client-animations.tsx -> @/components/particle-background": {
+    "id": "components\\client-animations.tsx -> @/components/particle-background",
+    "files": [
+      "static/chunks/_app-pages-browser_components_particle-background_tsx.js"
+    ]
+  },
+  "components\\client-animations.tsx -> @/components/ui/animated-gradient-background": {
+    "id": "components\\client-animations.tsx -> @/components/ui/animated-gradient-background",
+    "files": [
+      "static/chunks/_app-pages-browser_components_ui_animated-gradient-background_tsx.js"
+    ]
+  },
+  "components\\client-animations.tsx -> framer-motion": {
+    "id": "components\\client-animations.tsx -> framer-motion",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_framer-motion_dist_es_index_mjs.js"
+    ]
+  }
+}
